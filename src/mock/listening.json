@@ -1,0 +1,211 @@
+[
+  {
+    "id": "L1", "section": "listening", "type": "fill-blank", "difficulty": 2,
+    "title": "Section 1 · 租房咨询（表格填空）", "topic": "生活场景",
+    "tags": ["form completion", "租房", "Section 1"],
+    "audioUrl": "https://download.samplelib.com/mp3/sample-6s.mp3",
+    "transcript": "Agent: Hello, Hills Rentals, how can I help you? Tenant: Hi, I'm looking for a flat near the university. Agent: Sure. The monthly rent is two hundred and sixty pounds, and the nearest bus stop is just next to the library. Tenant: Great. And is there a parking space? Agent: Yes, but you need to collect the key from the office first.",
+    "explanation": "对话中说明最近的公交站在图书馆旁边（next to the library）。",
+    "answer": "library"
+  },
+  {
+    "id": "L2", "section": "listening", "type": "fill-blank", "difficulty": 2,
+    "title": "Section 1 · 健身房会员（表格填空）", "topic": "生活场景",
+    "tags": ["form completion", "membership", "Section 1"],
+    "audioUrl": "https://download.samplelib.com/mp3/sample-9s.mp3",
+    "transcript": "Receptionist: Our standard membership is forty-five pounds a month, and the swimming pool is open from six in the morning until ten at night. The fitness class starts on the fifteenth of September.",
+    "explanation": "标准会员费是每月 45 英镑（forty-five pounds a month）。",
+    "answer": "45"
+  },
+  {
+    "id": "L3", "section": "listening", "type": "fill-blank", "difficulty": 2,
+    "title": "Section 1 · 餐厅订位（笔记填空）", "topic": "生活场景",
+    "tags": ["note completion", "booking", "Section 1"],
+    "audioUrl": "https://download.samplelib.com/mp3/sample-9s.mp3",
+    "transcript": "Waiter: For the party on Saturday, we can seat up to twenty people, and a deposit of thirty pounds is required to confirm the booking. The set menu costs eighteen pounds per person.",
+    "explanation": "确认预订需 30 英镑押金（deposit of thirty pounds）。",
+    "answer": "30"
+  },
+  {
+    "id": "L4", "section": "listening", "type": "choice", "difficulty": 3,
+    "title": "Section 2 · 博物馆介绍（单选）", "topic": "公共场所",
+    "tags": ["multiple choice", "museum", "Section 2"],
+    "audioUrl": "https://download.samplelib.com/mp3/sample-9s.mp3",
+    "transcript": "Welcome to the City Museum. The new exhibition on ancient Egypt opens on the ground floor. The guided tour starts at 11 a.m. every Saturday, and the cafe is located on the top floor with a view of the river.",
+    "options": { "A": "一楼（ground floor）", "B": "顶楼（top floor）", "C": "二楼" },
+    "explanation": "音频明确说明咖啡厅在顶楼（cafe is located on the top floor）。",
+    "answer": "B"
+  },
+  {
+    "id": "L5", "section": "listening", "type": "choice", "difficulty": 3,
+    "title": "Section 2 · 城市徒步游（单选）", "topic": "旅游",
+    "tags": ["multiple choice", "travel", "Section 2"],
+    "audioUrl": "https://download.samplelib.com/mp3/sample-15s.mp3",
+    "transcript": "Our walking tour begins at the central station and lasts two hours. If it rains, we move the meeting point to the hotel lobby instead of the park entrance.",
+    "options": { "A": "中央车站", "B": "公园入口", "C": "酒店大堂（仅下雨时）" },
+    "explanation": "正常集合点在中央车站（begins at the central station）。",
+    "answer": "A"
+  },
+  {
+    "id": "L6", "section": "listening", "type": "match", "difficulty": 3,
+    "title": "Section 2 · 园区设施（信息匹配）", "topic": "公共场所",
+    "tags": ["matching", "facilities", "Section 2"],
+    "audioUrl": "https://download.samplelib.com/mp3/sample-15s.mp3",
+    "transcript": "In our sports centre, the gym is on the first floor. The sauna can be found on the second floor next to the pool. The cafe is on the ground floor, and the shop is also on the ground floor, to the left of the entrance.",
+    "questionList": [
+      { "no": 1, "text": "Gym（健身房）" },
+      { "no": 2, "text": "Sauna（桑拿）" },
+      { "no": 3, "text": "Cafe（咖啡厅）" }
+    ],
+    "options": { "A": "一楼（first floor）", "B": "二楼（second floor）", "C": "底层（ground floor）" },
+    "explanation": "健身房在一楼；桑拿在二楼泳池旁；咖啡厅在底层。",
+    "answer": ["A", "B", "C"]
+  },
+  {
+    "id": "L7", "section": "listening", "type": "fill-blank", "difficulty": 3,
+    "title": "Section 3 · 导师面谈（句子填空）", "topic": "学术讨论",
+    "tags": ["sentence completion", "study", "Section 3"],
+    "audioUrl": "https://download.samplelib.com/mp3/sample-15s.mp3",
+    "transcript": "Professor: For the final project, you should submit a written report of about two thousand words. The deadline is the end of May, and you must also give a short presentation in week twelve.",
+    "explanation": "期末项目需提交约 2000 词的报告（about two thousand words）。",
+    "answer": "2000"
+  },
+  {
+    "id": "L8", "section": "listening", "type": "fill-blank", "difficulty": 3,
+    "title": "Section 3 · 研究方法（笔记填空）", "topic": "学术讨论",
+    "tags": ["note completion", "research", "Section 3"],
+    "audioUrl": "https://download.samplelib.com/mp3/sample-15s.mp3",
+    "transcript": "Tutor: Your research should include at least thirty interviews. The data must be analysed using the software called SPSS, and the first draft is due on the ninth of March.",
+    "explanation": "研究须包含至少 30 次访谈（at least thirty interviews）。",
+    "answer": "30"
+  },
+  {
+    "id": "L9", "section": "listening", "type": "match", "difficulty": 4,
+    "title": "Section 3 · 学生观点（信息匹配）", "topic": "学术讨论",
+    "tags": ["matching", "opinion", "Section 3"],
+    "audioUrl": "https://download.samplelib.com/mp3/sample-15s.mp3",
+    "transcript": "Maria thinks the group work was the most useful part. James says the online videos helped him most. Elena found the weekly test the most valuable for her learning.",
+    "questionList": [
+      { "no": 1, "text": "Maria 认为最有用的" },
+      { "no": 2, "text": "James 认为最有用的" },
+      { "no": 3, "text": "Elena 认为最有用的" }
+    ],
+    "options": { "A": "小组作业（group work）", "B": "在线视频（online videos）", "C": "每周测验（weekly test）" },
+    "explanation": "Maria→小组作业；James→在线视频；Elena→每周测验。",
+    "answer": ["A", "B", "C"]
+  },
+  {
+    "id": "L10", "section": "listening", "type": "choice", "difficulty": 4,
+    "title": "Section 3 · 选课建议（单选）", "topic": "学术讨论",
+    "tags": ["multiple choice", "course", "Section 3"],
+    "audioUrl": "https://download.samplelib.com/mp3/sample-15s.mp3",
+    "transcript": "Tutor: I recommend the module on research methods for second-year students. The statistics course is better left until your final year, and the history option is optional.",
+    "options": { "A": "研究方法（research methods）", "B": "统计（statistics）", "C": "历史（history）" },
+    "explanation": "导师建议二年级学生选研究方法模块（recommend the module on research methods）。",
+    "answer": "A"
+  },
+  {
+    "id": "L11", "section": "listening", "type": "fill-blank", "difficulty": 4,
+    "title": "Section 4 · 可再生能源（句子填空）", "topic": "自然科学",
+    "tags": ["sentence completion", "lecture", "Section 4"],
+    "audioUrl": "https://download.samplelib.com/mp3/sample-15s.mp3",
+    "transcript": "Today we discuss three renewable energies. Solar power works best in dry, sunny regions. Wind power is ideal for coastal areas. Hydro power depends on rivers with a strong flow.",
+    "explanation": "水能依赖水流强劲的河流（rivers with a strong flow）。",
+    "answer": "rivers"
+  },
+  {
+    "id": "L12", "section": "listening", "type": "fill-blank", "difficulty": 4,
+    "title": "Section 4 · 生物讲座（笔记填空）", "topic": "自然科学",
+    "tags": ["note completion", "biology", "Section 4"],
+    "audioUrl": "https://download.samplelib.com/mp3/sample-15s.mp3",
+    "transcript": "The honeybee communicates the location of flowers through a dance. A single colony may contain up to sixty thousand bees, and the queen can lay two thousand eggs in one day.",
+    "explanation": "蜂后一天可产约 2000 枚卵（two thousand eggs in one day）。",
+    "answer": "2000"
+  },
+  {
+    "id": "L13", "section": "listening", "type": "match", "difficulty": 4,
+    "title": "Section 4 · 讲座要点（信息匹配）", "topic": "自然科学",
+    "tags": ["matching", "lecture", "Section 4"],
+    "audioUrl": "https://download.samplelib.com/mp3/sample-15s.mp3",
+    "transcript": "In today's lecture, climate change was described as the greatest threat. Pollution was rated as a medium-level concern. Overfishing was listed as the least urgent issue.",
+    "questionList": [
+      { "no": 1, "text": "最严重的问题" },
+      { "no": 2, "text": "中等程度的问题" },
+      { "no": 3, "text": "最不紧迫的问题" }
+    ],
+    "options": { "A": "气候变化（climate change）", "B": "污染（pollution）", "C": "过度捕捞（overfishing）" },
+    "explanation": "最严重=气候变化；中等=污染；最不紧迫=过度捕捞。",
+    "answer": ["A", "B", "C"]
+  },
+  {
+    "id": "L14", "section": "listening", "type": "fill-blank", "difficulty": 2,
+    "title": "Section 1 · 求职登记（表格填空）", "topic": "工作",
+    "tags": ["form completion", "job", "Section 1"],
+    "audioUrl": "https://download.samplelib.com/mp3/sample-9s.mp3",
+    "transcript": "Employer: Please write your date of birth as the twelfth of August, and your phone number starting with zero seven seven. The starting salary is eighteen thousand a year.",
+    "explanation": "起薪为每年 18000（eighteen thousand a year）。",
+    "answer": "18000"
+  },
+  {
+    "id": "L15", "section": "listening", "type": "choice", "difficulty": 3,
+    "title": "Section 2 · 影城介绍（单选）", "topic": "休闲",
+    "tags": ["multiple choice", "cinema", "Section 2"],
+    "audioUrl": "https://download.samplelib.com/mp3/sample-9s.mp3",
+    "transcript": "Our cinema has four screens. Screen One shows the latest blockbusters, while Screen Four is for independent films. The ticket price is nine pounds for adults.",
+    "options": { "A": "四块银幕", "B": "两块银幕", "C": "六块银幕" },
+    "explanation": "音频说影院有 four screens（四块银幕）。",
+    "answer": "A"
+  },
+  {
+    "id": "L16", "section": "listening", "type": "match", "difficulty": 3,
+    "title": "Section 2 · 园区地图（地图标注）", "topic": "地图",
+    "tags": ["map labeling", "matching", "Section 2"],
+    "audioUrl": "https://download.samplelib.com/mp3/sample-15s.mp3",
+    "transcript": "Enter by the main gate. The lake is to the north of the garden. The cafe is on the east side, near the fountain. The playground is in the south-west corner.",
+    "questionList": [
+      { "no": 1, "text": "Lake（湖）" },
+      { "no": 2, "text": "Cafe（咖啡厅）" },
+      { "no": 3, "text": "Playground（游乐场）" }
+    ],
+    "options": { "A": "北（north）", "B": "东（east）", "C": "西南（south-west）" },
+    "explanation": "湖在北部；咖啡厅在东部；游乐场在西南角。",
+    "answer": ["A", "B", "C"]
+  },
+  {
+    "id": "L17", "section": "listening", "type": "fill-blank", "difficulty": 3,
+    "title": "Section 3 · 项目计划（笔记填空）", "topic": "学术讨论",
+    "tags": ["note completion", "project", "Section 3"],
+    "audioUrl": "https://download.samplelib.com/mp3/sample-15s.mp3",
+    "transcript": "Student: Our project has four members, and we will meet every Wednesday at three p.m. The final report should be about fifteen pages long.",
+    "explanation": "最终报告约 15 页（about fifteen pages）。",
+    "answer": "15"
+  },
+  {
+    "id": "L18", "section": "listening", "type": "fill-blank", "difficulty": 4,
+    "title": "Section 4 · 天文讲座（句子填空）", "topic": "天文",
+    "tags": ["sentence completion", "astronomy", "Section 4"],
+    "audioUrl": "https://download.samplelib.com/mp3/sample-15s.mp3",
+    "transcript": "The Moon orbits the Earth at an average distance of three hundred and eighty thousand kilometres. A full lunar cycle takes about twenty-nine days.",
+    "explanation": "月球绕地球平均距离约 380000 公里（three hundred and eighty thousand kilometres）。",
+    "answer": "380000"
+  },
+  {
+    "id": "L19", "section": "listening", "type": "choice", "difficulty": 4,
+    "title": "Section 4 · 科普演讲（单选）", "topic": "科普",
+    "tags": ["multiple choice", "science talk", "Section 4"],
+    "audioUrl": "https://download.samplelib.com/mp3/sample-15s.mp3",
+    "transcript": "The speaker explained that plastic takes around four hundred years to break down in the ocean, which is why recycling is so important.",
+    "options": { "A": "约 400 年", "B": "约 40 年", "C": "约 4000 年" },
+    "explanation": "演讲者说塑料在海洋中分解约需 400 年（around four hundred years）。",
+    "answer": "A"
+  },
+  {
+    "id": "L20", "section": "listening", "type": "fill-blank", "difficulty": 2,
+    "title": "Section 1 · 活动报名（笔记填空）", "topic": "生活场景",
+    "tags": ["note completion", "booking", "Section 1"],
+    "audioUrl": "https://download.samplelib.com/mp3/sample-9s.mp3",
+    "transcript": "Receptionist: The photography workshop costs forty-five pounds and will be held in Room 204. Please arrive at half past nine.",
+    "explanation": "摄影工作坊费用为 45 英镑（costs forty-five pounds）。",
+    "answer": "45"
+  }
+]
