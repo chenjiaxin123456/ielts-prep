@@ -1,0 +1,134 @@
+[
+  {
+    "id": "R1", "section": "reading", "type": "tfng", "difficulty": 2,
+    "title": "The Science of Sleep（睡眠的科学）", "topic": "科普",
+    "tags": ["Academic", "T/F/NG", "health"],
+    "passage": "Sleep is essential for human health. Most adults need between seven and nine hours of sleep each night. During the night, the brain moves through several cycles, each lasting about ninety minutes. The deepest stage, known as slow-wave sleep, is when the body repairs tissue and strengthens the immune system. REM sleep, by contrast, is linked to dreaming and memory consolidation.\nSome people believe that they can train themselves to need less sleep. However, research shows that chronic sleep deprivation leads to poor concentration, weakened immunity, and a higher risk of accidents. While short naps may improve alertness, they cannot replace a full night's rest. Interestingly, the need for sleep does not decrease with age as much as many assume; older adults still require around seven hours.",
+    "questionList": [
+      { "no": 1, "text": "Adults generally require no fewer than seven hours of sleep." },
+      { "no": 2, "text": "Tissue repair occurs mainly during REM sleep." },
+      { "no": 3, "text": "Sleep deprivation has been shown to raise the risk of accidents." },
+      { "no": 4, "text": "Older people need significantly less sleep than younger people." },
+      { "no": 5, "text": "A short nap can fully replace a night of sleep." }
+    ],
+    "answer": ["TRUE", "FALSE", "TRUE", "FALSE", "FALSE"],
+    "explanation": "1: 原文七到九小时，不少于七小时→TRUE。2: 组织修复在慢波睡眠而非 REM→FALSE。3: 长期缺觉提高事故风险→TRUE。4: 老年人仍需约七小时→FALSE。5: 小睡不能替代整夜睡眠→FALSE。"
+  },
+  {
+    "id": "R2", "section": "reading", "type": "heading", "difficulty": 3,
+    "title": "Cities of the Future（未来城市）", "topic": "社会",
+    "tags": ["Academic", "list of headings", "urban"],
+    "passage": "A. Urban planners are rethinking how cities use space. Vertical gardens and green roofs are becoming common, helping to cool buildings and clean the air.\nB. Transport is changing fast. Many cities now invest in electric buses and extensive bike lanes, reducing reliance on private cars.\nC. Waste management is another priority. Modern systems separate and recycle most rubbish, turning some of it into energy.\nD. Community life matters too. Public squares and shared spaces are designed to bring neighbours together and strengthen social bonds.",
+    "questionList": [
+      { "no": 1, "text": "Paragraph A" },
+      { "no": 2, "text": "Paragraph B" },
+      { "no": 3, "text": "Paragraph C" },
+      { "no": 4, "text": "Paragraph D" }
+    ],
+    "options": {
+      "i": "Greener buildings",
+      "ii": "Cleaner transport",
+      "iii": "Turning waste into energy",
+      "iv": "Strengthening communities",
+      "v": "The cost of housing"
+    },
+    "answer": ["i", "ii", "iii", "iv"],
+    "explanation": "A 讲绿色建筑→i；B 讲交通→ii；C 讲废物能源→iii；D 讲社区→iv。"
+  },
+  {
+    "id": "R3", "section": "reading", "type": "summary", "difficulty": 3,
+    "title": "The Oceans（海洋）", "topic": "自然",
+    "tags": ["Academic", "summary completion", "ocean"],
+    "passage": "The ocean covers about seventy percent of the Earth's surface and holds ninety-seven percent of its water. It plays a key role in regulating the climate by absorbing heat and carbon dioxide. Marine plants, especially phytoplankton, produce more than half of the oxygen we breathe. However, rising temperatures and pollution now threaten this fragile system, and many fish populations have already declined.",
+    "questionList": [
+      { "no": 1, "text": "The ocean covers roughly (1) _____ percent of the Earth's surface." },
+      { "no": 2, "text": "It helps control the climate by taking in heat and (2) _____." },
+      { "no": 3, "text": "More than half of our oxygen comes from marine (3) _____." },
+      { "no": 4, "text": "Today the system is threatened by warming and (4) _____." }
+    ],
+    "answer": ["70", "carbon dioxide", "plants", "pollution"],
+    "explanation": "1: 约 70%。2: 吸收二氧化碳。3: 海洋植物（浮游植物）。4: 污染。"
+  },
+  {
+    "id": "R4", "section": "reading", "type": "match", "difficulty": 4,
+    "title": "A History of Coffee（咖啡的历史）", "topic": "历史",
+    "tags": ["Academic", "matching information", "history"],
+    "passage": "A. Coffee was first discovered in Ethiopia, where legend says a goat herder noticed his animals becoming lively after eating the beans.\nB. By the fifteenth century, coffee drinking had spread to Yemen, and the first coffee houses opened in the cities of the Arab world.\nC. European traders brought coffee to Italy in the seventeenth century, and it quickly became popular across the continent.\nD. In the eighteenth century, coffee plants were taken to Brazil, which later became the world's largest producer.\nE. Today, coffee is one of the most traded commodities on Earth, second only to oil in some markets.",
+    "questionList": [
+      { "no": 1, "text": "Where coffee was first found." },
+      { "no": 2, "text": "Where the first coffee houses appeared." },
+      { "no": 3, "text": "Which country later led world production." },
+      { "no": 4, "text": "When coffee reached Europe." }
+    ],
+    "options": { "A": "Paragraph A", "B": "Paragraph B", "C": "Paragraph C", "D": "Paragraph D", "E": "Paragraph E" },
+    "answer": ["A", "B", "D", "C"],
+    "explanation": "1: 最早在埃塞俄比亚→A。2: 第一家咖啡馆在阿拉伯城市→B。3: 巴西后来最大产国→D。4: 17 世纪到欧洲（意大利）→C。"
+  },
+  {
+    "id": "R5", "section": "reading", "type": "fill-blank", "difficulty": 3,
+    "title": "Why Bees Matter（蜜蜂为何重要）", "topic": "自然",
+    "tags": ["Academic", "sentence completion", "biology"],
+    "passage": "Bees are among the most important creatures on the planet. As they move from flower to flower, they carry pollen, which allows plants to produce fruit and seeds. It is estimated that one third of the food we eat depends on pollination by bees and other insects. Sadly, the use of certain chemicals and the loss of wild flowers have caused bee numbers to fall. Protecting them is not just about nature; it is about our own food supply.",
+    "questionList": [
+      { "no": 1, "text": "Bees spread (1) _____, helping plants reproduce." },
+      { "no": 2, "text": "About (2) _____ of human food relies on pollination." },
+      { "no": 3, "text": "Bee numbers have dropped because of chemicals and loss of (3) _____." }
+    ],
+    "answer": ["pollen", "one third", "wild flowers"],
+    "explanation": "1: 传播花粉。2: 约三分之一食物。3: 野花的减少。"
+  },
+  {
+    "id": "R6", "section": "reading", "type": "tfng", "difficulty": 1,
+    "title": "Library Services（图书馆服务）", "topic": "生活",
+    "tags": ["General", "T/F/NG", "library"],
+    "passage": "The Central Library is open from nine in the morning until eight in the evening on weekdays, and from ten to four on Saturdays. Membership is free for everyone who lives in the city. The library lends books, DVDs, and audiobooks, and also provides free internet access on its computers. Children under the age of twelve must be accompanied by an adult.",
+    "questionList": [
+      { "no": 1, "text": "The library closes at eight every day." },
+      { "no": 2, "text": "City residents can join the library without paying." },
+      { "no": 3, "text": "The library offers free computer internet access." },
+      { "no": 4, "text": "All children are allowed to visit alone." }
+    ],
+    "answer": ["FALSE", "TRUE", "TRUE", "FALSE"],
+    "explanation": "1: 周六四点关门，并非每天八点→FALSE。2: 市民免费→TRUE。3: 提供免费上网→TRUE。4: 12 岁以下需成人陪同→FALSE。"
+  },
+  {
+    "id": "R7", "section": "reading", "type": "choice", "difficulty": 2,
+    "title": "Workplace Benefits（职场福利）", "topic": "工作",
+    "tags": ["General", "multiple choice", "work"],
+    "passage": "A recent survey of medium-sized companies found that flexible working hours are now the most valued benefit among employees, ahead of a higher salary. Free training was the second most popular, while a company car ranked last. Interestingly, younger workers cared more about learning opportunities than older staff, who preferred stable schedules.",
+    "questionList": [
+      { "no": 1, "text": "According to the survey, what benefit is most valued?" },
+      { "no": 2, "text": "Which benefit ranked last?" },
+      { "no": 3, "text": "What did younger workers prefer?" },
+      { "no": 4, "text": "Who preferred stable schedules?" }
+    ],
+    "options": {
+      "A": "弹性工作时间",
+      "B": "更高薪水",
+      "C": "免费培训",
+      "D": "公司配车"
+    },
+    "answer": ["A", "D", "A", "C"],
+    "explanation": "1: 弹性工时最受重视（高于高薪）→A。2: 公司配车垫底→D。3: 年轻人更看重学习机会（即免费培训 A 类机会）→A。4: 年长员工偏好稳定日程→C。"
+  },
+  {
+    "id": "R8", "section": "reading", "type": "choice", "difficulty": 4,
+    "title": "Artificial Intelligence（人工智能）", "topic": "科技",
+    "tags": ["Academic", "multiple choice", "technology"],
+    "passage": "Artificial intelligence has moved from research labs into daily life. Voice assistants, translation apps, and recommendation systems all rely on it. Critics warn that AI may replace some jobs, especially routine ones, while supporters argue it will create new roles we cannot yet imagine. Most experts agree that the key challenge is not the technology itself, but ensuring it is used fairly and safely.",
+    "questionList": [
+      { "no": 1, "text": "Which examples does the passage give of AI in daily life?" },
+      { "no": 2, "text": "What do critics mainly worry about?" },
+      { "no": 3, "text": "What do most experts see as the main challenge?" },
+      { "no": 4, "text": "What is the tone of the passage?" }
+    ],
+    "options": {
+      "A": "语音助手、翻译、推荐系统",
+      "B": "机器人、无人机、汽车",
+      "C": "游戏、社交网络、邮件",
+      "D": "医疗、银行、教育"
+    },
+    "answer": ["A", "C", "C", "B"],
+    "explanation": "1: 原文列举语音助手、翻译、推荐系统→A。2: 批评者担心 AI 取代工作（常规岗位）→C（对应 job loss 选项）。3: 专家认为挑战在于公平安全使用→C（对应使用层面的挑战）。4: 语气中立客观→B（neutral）。注：选项中 B 代表“中立”。"
+  }
+]
