@@ -1,0 +1,170 @@
+[
+  {
+    "id": "W1", "section": "writing", "type": "fill-blank", "task": 1, "difficulty": 3,
+    "title": "Task 1 · 折线图：城市交通方式变化", "topic": "图表",
+    "tags": ["Academic", "line graph", "transport"],
+    "prompt": "The line graph below shows the number of people using three types of transport — cars, buses and bicycles — in a city between 2000 and 2020. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+    "wordLimit": 150,
+    "tips": ["开头一句话总述图表主题", "按总体趋势分组（上升/下降）", "挑选最显著的数字对比", "不写个人观点"],
+    "samples": [
+      { "band": 6, "content": "The graph shows how many people used cars, buses and bicycles in one city from 2000 to 2020. The number of car users went up from about 20,000 to 55,000. Bus users fell from 40,000 to 20,000. Bicycle users increased a little, from 10,000 to 18,000. In general, more people drove cars and fewer took the bus.", "comments": "覆盖了主要趋势，但句式较简单、缺乏数据细节与对比连接词。" },
+      { "band": 8, "content": "The line graph illustrates changes in the use of three modes of transport in a city over a 20-year period. Overall, car use rose dramatically from 20,000 to 55,000, while bus use more than halved from 40,000 to 20,000. Bicycle use also grew, albeit modestly, from 10,000 to 18,000. The key trend is a clear shift away from public transport towards private cars, with cycling showing a steady but smaller increase.", "comments": "总述清晰，数据准确，使用了对比连接词与概览句，词汇与语法多样。" }
+    ]
+  },
+  {
+    "id": "W2", "section": "writing", "type": "fill-blank", "task": 1, "difficulty": 3,
+    "title": "Task 1 · 柱状图：休闲活动偏好", "topic": "图表",
+    "tags": ["Academic", "bar chart", "leisure"],
+    "prompt": "The bar chart shows the percentage of people in different age groups who preferred five leisure activities in 2020. Summarise the information by selecting and reporting the main features.",
+    "wordLimit": 150,
+    "tips": ["先写总体对比（年轻人 vs 老年人）", "挑选最高/最低项", "注意不要逐一罗列所有数字"],
+    "samples": [
+      { "band": 6, "content": "The bar chart gives information about leisure activities of people in five age groups. Young people liked playing sports and using the internet most. Older people preferred reading and watching TV. Going to the cinema was not very popular in any group.", "comments": "抓住了年龄差异，但缺少具体百分比支撑。" },
+      { "band": 8, "content": "The bar chart compares the popularity of five leisure activities across five age groups in 2020. A clear pattern emerges: internet use and sport dominated among the under-30s (around 70% and 60% respectively), whereas reading and television were favoured by those over 60 (roughly 65% and 55%). Cinema attendance remained the least popular activity in every group, never exceeding 25%.", "comments": "分组清晰，数字具体，结论句到位。" }
+    ]
+  },
+  {
+    "id": "W3", "section": "writing", "type": "fill-blank", "task": 1, "difficulty": 3,
+    "title": "Task 1 · 饼图：家庭支出构成", "topic": "图表",
+    "tags": ["Academic", "pie chart", "budget"],
+    "prompt": "The pie charts compare the proportion of household spending in a country in 1990 and 2020. Summarise the information by selecting and reporting the main features.",
+    "wordLimit": 150,
+    "tips": ["对比两个年份的相同类别", "突出变化最大的部分", "用百分比表达"],
+    "samples": [
+      { "band": 6, "content": "The charts show how families spent their money in 1990 and 2020. In 1990, food was the biggest part. In 2020, housing became the largest. Spending on transport went up, while food went down.", "comments": "点出了变化，但应给出具体百分比。" },
+      { "band": 8, "content": "The pie charts compare household expenditure in 1990 and 2020. Housing rose from 25% to 38%, becoming the largest category by 2020, while food fell from 30% to 18%. Transport increased modestly from 12% to 15%. The most notable shift is the move from essentials like food towards housing costs.", "comments": "对比明确，使用具体比例与概览句。" }
+    ]
+  },
+  {
+    "id": "W4", "section": "writing", "type": "fill-blank", "task": 1, "difficulty": 4,
+    "title": "Task 1 · 表格：三国教育数据", "topic": "图表",
+    "tags": ["Academic", "table", "education"],
+    "prompt": "The table below gives information about the education system in three countries. Summarise the information by selecting and reporting the main features.",
+    "wordLimit": 150,
+    "tips": ["抓最高/最低与最显著差异", "按维度（年限、支出、入学率）对比", "结尾总结"],
+    "samples": [
+      { "band": 6, "content": "The table shows education in three countries. Country A has the longest school years. Country B spends the most money. Country C has the highest university entry rate.", "comments": "信息正确但过于简略，未展开。" },
+      { "band": 8, "content": "The table compares three countries across school years, public spending and university entry. Country A has the longest compulsory education at 13 years, compared with 11 in B and 10 in C. However, B devotes the largest share of GDP to education (6.5%). University entry is highest in C at 78%, suggesting efficient access despite shorter schooling.", "comments": "数据对比具体，比较维度清晰。" }
+    ]
+  },
+  {
+    "id": "W5", "section": "writing", "type": "fill-blank", "task": 1, "difficulty": 4,
+    "title": "Task 1 · 流程图：回收纸张", "topic": "流程图",
+    "tags": ["Academic", "process", "recycling"],
+    "prompt": "The diagram shows the process of recycling paper. Summarise the information by selecting and reporting the main features.",
+    "wordLimit": 150,
+    "tips": ["按步骤顺序写（第一步→最后）", "使用顺序连接词 first, then, finally", "说明输入与输出"],
+    "samples": [
+      { "band": 6, "content": "The process shows how paper is recycled. First old paper is collected. Then it is put in water. After that it is made into new paper. The new paper is used again.", "comments": "步骤顺序对，但词汇重复、缺乏细节。" },
+      { "band": 8, "content": "The diagram illustrates the paper recycling process, which consists of several stages. Used paper is first collected and sorted, then soaked in water to form a pulp. The pulp is cleaned, pressed and rolled into flat sheets, which are finally dried and cut into new paper products. The cycle is designed to reuse fibre repeatedly.", "comments": "顺序清晰，被动语态与流程动词准确。" }
+    ]
+  },
+  {
+    "id": "W6", "section": "writing", "type": "fill-blank", "task": 1, "difficulty": 4,
+    "title": "Task 1 · 地图：公园改造前后", "topic": "地图",
+    "tags": ["Academic", "map", "development"],
+    "prompt": "The maps below show a park as it was in 2010 and as it is now. Summarise the information by selecting and reporting the main features.",
+    "wordLimit": 150,
+    "tips": ["对比过去与现在的变化", "说明新增/移除的设施", "用方位词（north, centre, replaced）"],
+    "samples": [
+      { "band": 6, "content": "The maps show changes to a park. In 2010 there was a lake. Now there is a playground. A cafe was added and the trees were moved.", "comments": "变化点出，但方位描述不足。" },
+      { "band": 8, "content": "The maps compare the park in 2010 and today. The most significant change is that the central lake has been replaced by a children's playground. A café has been added in the north-east corner, and the former flower garden in the south is now a sports area. Overall, the park has been redesigned for active recreation.", "comments": "方位与替换关系清楚，概览句好。" }
+    ]
+  },
+  {
+    "id": "W7", "section": "writing", "type": "fill-blank", "task": 1, "difficulty": 2,
+    "title": "G 类书信 · 正式投诉信", "topic": "书信",
+    "tags": ["General", "formal letter", "complaint"],
+    "prompt": "You recently stayed at a hotel and were unhappy with the service. Write a letter to the manager. In your letter: say what went wrong; explain why it spoiled your stay; suggest what should be done.",
+    "wordLimit": 150,
+    "tips": ["正式语气、清晰分段", "第一段说明目的", "具体描述问题", "礼貌提出诉求"],
+    "samples": [
+      { "band": 6, "content": "Dear Sir, I am writing to complain about my stay at your hotel last week. The room was dirty and the heating did not work. This made me feel uncomfortable. I think you should improve your service and give me a refund.", "comments": "语气基本正式，但展开不足、细节少。" },
+      { "band": 8, "content": "Dear Sir or Madam, I am writing to express my disappointment with a recent stay at your hotel. On arrival, my room had not been cleaned and the heating was broken, which left me cold throughout the night. As a result, my business trip was seriously affected. I would appreciate a full refund and assurances that standards will improve.", "comments": "正式得体，分段清晰，理由与诉求明确。" }
+    ]
+  },
+  {
+    "id": "W8", "section": "writing", "type": "fill-blank", "task": 1, "difficulty": 2,
+    "title": "G 类书信 · 非正式邀请信", "topic": "书信",
+    "tags": ["General", "informal letter", "invitation"],
+    "prompt": "You are organising a birthday party and want to invite a friend. Write a letter: invite them; say when and where; tell them what to bring.",
+    "wordLimit": 150,
+    "tips": ["亲切口语化语气", "用 I'm / we're 等缩略", "表达期待"],
+    "samples": [
+      { "band": 6, "content": "Hi Tom, I am having a party for my birthday. It is next Saturday at my house. Please come at 7 pm. Bring your guitar if you can. Hope to see you!", "comments": "语气自然，但内容可更丰富。" },
+      { "band": 8, "content": "Hi Tom, Guess what — I'm turning 25 and throwing a party next Saturday at my place from 7 pm! It'd be great to have you there. If you can, bring your guitar for a sing-along. Don't worry about food — just bring yourself. Can't wait to see you!", "comments": "语气亲切、细节生动、期待感强。" }
+    ]
+  },
+  {
+    "id": "W9", "section": "writing", "type": "fill-blank", "task": 1, "difficulty": 2,
+    "title": "G 类书信 · 半正式请求信", "topic": "书信",
+    "tags": ["General", "semi-formal", "request"],
+    "prompt": "You need to ask your manager for some time off work. Write a letter: explain why you need leave; say when and for how long; suggest how your work will be covered.",
+    "wordLimit": 150,
+    "tips": ["介于正式与非正式之间", "说明原因与时间", "提出工作交接方案"],
+    "samples": [
+      { "band": 6, "content": "Dear Mr. Lee, I need to take some days off because of a family matter. I want to leave from Monday to Wednesday. My colleague can do my tasks. Thank you.", "comments": "信息完整但较生硬、缺乏礼貌过渡。" },
+      { "band": 8, "content": "Dear Mr Lee, I am writing to request three days' leave from Monday to Wednesday next week to attend to a family matter. To avoid disruption, I have arranged for a colleague to handle my urgent tasks, and I will finish this week's report beforehand. Thank you for your understanding.", "comments": "礼貌清晰，交接安排具体。" }
+    ]
+  },
+  {
+    "id": "W10", "section": "writing", "type": "fill-blank", "task": 2, "difficulty": 3,
+    "title": "Task 2 · 教育：是否应偏重学术", "topic": "教育",
+    "tags": ["Academic", "Task 2", "education"],
+    "prompt": "Some people think schools should only teach academic subjects, while others believe practical skills are more important. Discuss both views and give your own opinion.",
+    "wordLimit": 250,
+    "tips": ["两段分别讨论两方观点", "明确给出自己的立场", "用例子支撑"],
+    "samples": [
+      { "band": 6, "content": "Some people say schools should teach only academic subjects like maths and science. Others think practical skills are more useful. Academic subjects help students get good jobs, but practical skills like cooking are needed in life. I think both are important and schools should teach them together.", "comments": "立场有，但论证浅、连接弱。" },
+      { "band": 8, "content": "There is debate over whether schools should focus on academic or practical education. Proponents of academic subjects argue they build reasoning and open doors to universities. However, supporters of practical skills contend that cooking, budgeting and repair are essential for independent living. In my view, a balance is ideal: core academics provide foundation, while life skills prepare students for the real world. Schools that combine both produce more capable adults.", "comments": "两方观点平衡、立场清晰、语言多样。" }
+    ]
+  },
+  {
+    "id": "W11", "section": "writing", "type": "fill-blank", "task": 2, "difficulty": 4,
+    "title": "Task 2 · 环境：个人还是政府负责", "topic": "环境",
+    "tags": ["Academic", "Task 2", "environment"],
+    "prompt": "It is more important to protect the environment than to develop the economy. To what extent do you agree or disagree?",
+    "wordLimit": 250,
+    "tips": ["明确 agree/disagree 程度", "给出反方让步", "以例子结尾"],
+    "samples": [
+      { "band": 6, "content": "I agree that the environment is important. If we pollute, people will be sick. But the economy is also important because we need jobs. So governments should try to do both. I think environment is a little more important.", "comments": "有立场，但论证单薄、词汇简单。" },
+      { "band": 8, "content": "While economic growth improves living standards, I largely agree that environmental protection should take priority, since ecological damage is often irreversible. Unchecked industry may create jobs today yet impose huge health and cleanup costs tomorrow. That said, development and conservation need not conflict: green technology shows both can advance together. On balance, safeguarding the environment is the wiser long-term choice.", "comments": "立场明确、让步合理、逻辑严密。" }
+    ]
+  },
+  {
+    "id": "W12", "section": "writing", "type": "fill-blank", "task": 2, "difficulty": 4,
+    "title": "Task 2 · 科技：社交媒体的影响", "topic": "科技",
+    "tags": ["Academic", "Task 2", "technology"],
+    "prompt": "Some people think social media brings people closer, while others believe it makes them more isolated. Discuss both views and give your opinion.",
+    "wordLimit": 250,
+    "tips": ["对比连接词", "举例（视频通话 vs 比较心理）", "明确结论"],
+    "samples": [
+      { "band": 6, "content": "Social media helps us talk to friends far away. But some people stay alone at home and only use phones. I think it is good because we can meet old friends. However, it can also make people lonely.", "comments": "观点有，但结构松散、语法错误稍多。" },
+      { "band": 8, "content": "Social media is praised for connecting distant friends through instant messaging and video calls, yet criticised for replacing deep contact with shallow scrolling. Evidence suggests heavy use can increase feelings of isolation, as comparisons online lower self-esteem. Personally, I believe the tool is neutral: it strengthens bonds when used mindfully, but harms well-being when it replaces real interaction. Moderation is the key.", "comments": "双边平衡、有研究视角、结论有力。" }
+    ]
+  },
+  {
+    "id": "W13", "section": "writing", "type": "fill-blank", "task": 2, "difficulty": 3,
+    "title": "Task 2 · 健康：医疗是否免费", "topic": "健康",
+    "tags": ["Academic", "Task 2", "health"],
+    "prompt": "Some countries provide free health care paid by taxes. Is this a good idea? Give reasons and examples.",
+    "wordLimit": 250,
+    "tips": ["说明优点（公平、可及）", "说明代价（税收、等待）", "给出平衡看法"],
+    "samples": [
+      { "band": 6, "content": "Free health care is good because everyone can see a doctor. But it costs a lot of tax. Some people wait a long time. I think it is a good idea because health is important.", "comments": "理由正确但展开不足。" },
+      { "band": 8, "content": "Tax-funded health care ensures that treatment depends on need, not wealth, which promotes fairness and early care. The drawback is higher taxation and, in some systems, longer waiting times. Nevertheless, the social benefit of a healthier population outweighs these costs. A mixed model—universal basic care plus optional private insurance—often works best.", "comments": "利弊平衡、提出混合模式，论证成熟。" }
+    ]
+  },
+  {
+    "id": "W14", "section": "writing", "type": "fill-blank", "task": 2, "difficulty": 4,
+    "title": "Task 2 · 社会：城市化利弊", "topic": "社会",
+    "tags": ["Academic", "Task 2", "society"],
+    "prompt": "More and more people are moving to cities. What are the advantages and disadvantages of this trend?",
+    "wordLimit": 250,
+    "tips": ["分段写优点与缺点", "各给具体例子", "结尾总结"],
+    "samples": [
+      { "band": 6, "content": "Cities have more jobs and better schools. But they are crowded and polluted. People move there for work. I think it is both good and bad.", "comments": "要点到，但缺乏展开与例子。" },
+      { "band": 8, "content": "Urbanisation offers clear benefits: cities concentrate jobs, healthcare and education, raising living standards. Yet the downsides are real—overcrowding, higher living costs and environmental strain. For instance, mega-cities often struggle with traffic and air quality. On balance, the move to cities is inevitable and beneficial if paired with good planning that protects livability.", "comments": "优点缺点清晰、举例具体、结论有建设性。" }
+    ]
+  }
+]
