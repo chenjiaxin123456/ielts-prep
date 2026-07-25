@@ -1,0 +1,29 @@
+{
+  "name": "ielts-backend",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "IELTS 备考网站后端：Express + SQLite",
+  "scripts": {
+    "dev": "node --watch src/index.js",
+    "start": "node src/index.js",
+    "start:staging": "NODE_ENV=staging node src/index.js",
+    "start:prod": "NODE_ENV=production node src/index.js",
+    "generate": "node scripts/generateQuestions.js",
+    "generate:articles": "node scripts/generateArticles.js",
+    "verify": "node scripts/verifyAnswers.js",
+    "seed": "node src/seed.js",
+    "seed:reset": "node src/seed.js --reset",
+    "seed:staging": "NODE_ENV=staging node src/seed.js",
+    "seed:prod": "NODE_ENV=production node src/seed.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "better-sqlite3": "^11.3.0",
+    "compression": "^1.8.1",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "nanoid": "^5.0.7"
+  }
+}
