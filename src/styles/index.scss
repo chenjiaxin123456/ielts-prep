@@ -1,0 +1,171 @@
+// ============ 设计系统：雅思备考网站 ============
+:root {
+  // 品牌色（靛蓝 → 紫）
+  --c-primary: #4f46e5;
+  --c-primary-600: #4338ca;
+  --c-violet: #7c3aed;
+  --c-accent: #06b6d4;
+
+  // 中性
+  --c-bg: #f5f6fb;
+  --c-surface: #ffffff;
+  --c-text: #1f2937;
+  --c-muted: #6b7280;
+  --c-border: #eceef3;
+
+  // 圆角 / 阴影
+  --radius: 16px;
+  --radius-sm: 10px;
+  --shadow-sm: 0 1px 2px rgba(16, 24, 40, 0.06);
+  --shadow: 0 8px 24px rgba(79, 70, 229, 0.1);
+  --shadow-lg: 0 16px 40px rgba(79, 70, 229, 0.18);
+
+  // ===== 覆盖 Element Plus 主题 =====
+  --el-color-primary: #4f46e5;
+  --el-color-primary-light-3: #837ded;
+  --el-color-primary-light-5: #a7a2f2;
+  --el-color-primary-light-7: #cac7f7;
+  --el-color-primary-light-8: #dbdafa;
+  --el-color-primary-light-9: #edecfc;
+  --el-color-primary-dark-2: #3f38b7;
+  --el-border-radius-base: 10px;
+  --el-border-radius-small: 8px;
+  --el-font-size-base: 14px;
+}
+
+* {
+  box-sizing: border-box;
+}
+html,
+body,
+#app {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+body {
+  font-family:
+    "Inter", "Helvetica Neue", Helvetica, "PingFang SC", "Hiragino Sans GB",
+    "Microsoft YaHei", Arial, sans-serif;
+  background: var(--c-bg);
+  color: var(--c-text);
+  -webkit-font-smoothing: antialiased;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* 滚动条 */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-thumb {
+  background: #d7dbe6;
+  border-radius: 8px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #c2c7d6;
+}
+
+/* ===== 通用工具类 ===== */
+.page-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 10px 25px 0;
+}
+.section-title {
+  font-size: 18px;
+  font-weight: 700;
+  margin: 0 0 16px;
+  letter-spacing: 0.2px;
+}
+.gradient-text {
+  background: linear-gradient(90deg, var(--c-primary), var(--c-violet));
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.hover-lift {
+  transition:
+    transform 0.22s ease,
+    box-shadow 0.22s ease;
+}
+.hover-lift:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-lg);
+}
+.card-hover {
+  cursor: pointer;
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease;
+}
+.card-hover:hover {
+  transform: translateY(-3px);
+  box-shadow: var(--shadow) !important;
+}
+.glow-btn {
+  box-shadow: 0 8px 18px rgba(79, 70, 229, 0.3);
+  transition:
+    transform 0.15s ease,
+    box-shadow 0.2s ease;
+}
+.glow-btn:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 12px 24px rgba(79, 70, 229, 0.4);
+}
+
+/* 卡片统一质感 */
+.el-card {
+  border: 1px solid var(--c-border) !important;
+  border-radius: var(--radius) !important;
+  box-shadow:
+    0 1px 2px rgba(16, 24, 40, 0.04),
+    0 6px 20px rgba(16, 24, 40, 0.05) !important;
+}
+.el-card__body {
+  padding: 22px 24px;
+}
+
+/* 统一行内对齐工具类 */
+.row-between {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+.row-center {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+.btn-row {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 16px;
+}
+.icon-align {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* 页面切换动画 */
+.fade-slide-enter-active,
+.fade-slide-leave-active {
+  transition:
+    opacity 0.25s ease,
+    transform 0.25s ease;
+}
+.fade-slide-enter-from {
+  opacity: 0;
+  transform: translateY(10px);
+}
+.fade-slide-leave-to {
+  opacity: 0;
+  transform: translateY(-10px);
+}
